@@ -30,8 +30,8 @@
                     <div class="slideTitle">
 							Hey<br />
                             Thanks for showing interest, an account manager will be in touch shortly.
-                            <p> <a href="{{ route('/')}}"> Back to Home </a></p>
-				    </div>
+                    </div>
+                        <p> <a href="{{ route('/')}}"> Back to Home </a></p>
 					
                         
 					
