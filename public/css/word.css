@@ -64,7 +64,7 @@ html, body {
   width: 100%;
   font-size: 14px;
   overflow-x: hidden !important;
-  background: #1e2227;
+  /* background: #1e2227; */
   font-family: 'Source Sans Pro', sans-serif;
 }
 /* line 55, ../sass/word.scss */
