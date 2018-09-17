@@ -17,18 +17,20 @@
     <title>What are you Expecting?? </title>
 </head>
 <body>
-
+        
     	<div class="section stage-9" id="section3">
-				<img src="form-bg.png">
+                <img src="form-bg.png">
+                <p> <a href="{{ route('/')}}"> Back to Home </a></p>
 				<div class="container" style="max-height: 1400px;">
 					<div class="message">
 						<div class="slideTitle">
 							Hey <span id="userName"></span><br />
 							Thanks for showing interest, an account manager will be in touch shortly.
 						</div>
-					</div>
+                    </div>
+                    
 					<form id="test-form" class="form" style="padding-bottom: 80px;">
-						<div class="slideTitle">Fill out the form below, and an account manager will be in touch shortly.</div>
+                        <div class="slideTitle">Fill out the form below, and an account manager will be in touch shortly.</div>
 						<div class="input">
 							<div class="label">Brand  Name </div>
 							<input type="text" id="iBrand" name="brand_name" tabindex="1">
